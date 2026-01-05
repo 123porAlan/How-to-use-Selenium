@@ -1,7 +1,3 @@
-Aquí tienes el archivo **README.md** estructurado profesionalmente. He desglosado la explicación técnica para que sirva tanto como documentación del proyecto como guía de estudio sobre cómo funciona Selenium en este contexto.
-
----
-
 # 📈 Yahoo Finance Scraper con Selenium
 
 Este proyecto es un script de automatización en Python que utiliza **Selenium WebDriver** para navegar en Yahoo Finance, buscar una acción bursátil específica (por defecto "Apple") y extraer sus datos financieros en tiempo real.
